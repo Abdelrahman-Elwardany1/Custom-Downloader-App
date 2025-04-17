@@ -1,4 +1,4 @@
-# Custom Downloader App 📥
+# Custom Downloader App
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg)](https://kotlinlang.org/)
 [![OkHttp](https://img.shields.io/badge/OkHttp-brightgreen)](https://square.github.io/okhttp/)
